@@ -8,6 +8,7 @@
 
 #  HOME PAGE
 ![All](/images/h1.png)
+
 ![All](/images/h2.png)
 
 # SEARCH FUNCTIONALITY
