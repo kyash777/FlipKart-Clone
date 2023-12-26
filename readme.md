@@ -6,11 +6,11 @@
 ![Login](/images/Login.png)
 ![Signup](/images/signup.png)
 
-##  HOME PAGE
+#  HOME PAGE
 ![All](/images/h1.png)
 ![All](/images/h2.png)
 
-## PRODUCTS PAGE
+# PRODUCTS PAGE
 ![Create](/images/pr.png)
 
 # CART PAGE
