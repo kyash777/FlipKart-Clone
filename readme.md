@@ -10,11 +10,15 @@
 ![All](/images/h1.png)
 ![All](/images/h2.png)
 
+# SEARCH FUNCTIONALITY
+#### USERS CAN SEARCH THEIR REQUIRED PRODUCT.
+![Create](/images/s.png)
+
 # PRODUCTS PAGE
 ![Create](/images/pr.png)
 
 # CART PAGE
-#### USERS CAN SEE PRODUCTS ADDED TO CART HERE
+#### USERS CAN SEE PRODUCTS ADDED TO CART HERE.
 ![Edit](/images/cart.png)
 
 # PRODUCT DETAIL VIEW
@@ -22,6 +26,7 @@
 ![Edit](/images/dp.png)
 
 # PAYTM PAYMENT GATEWAY 
+#### USERS CAN MAKE PAYMENT USING PAYMENT GATEWAY PAGE.
 ![Edit](/images/pg1.png)
 ![Edit](/images/pg2.png)
 
